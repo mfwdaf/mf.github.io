@@ -1,7 +1,7 @@
 # Site settings
 title: Coding: A History
 description: A blog about my coding journey for self-reflection and rememberance
-baseurl:
+# baseurl:
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
